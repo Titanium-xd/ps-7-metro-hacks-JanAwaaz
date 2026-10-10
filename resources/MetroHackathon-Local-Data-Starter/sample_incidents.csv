@@ -1,0 +1,21 @@
+﻿incident_id,station,category,severity,status,description,minutes_since_report_demo,is_synthetic
+DEMO-INC-001,Koba Circle,Escalator,High,Open,Escalator reported as unavailable; staff follow-up required.,7,true
+DEMO-INC-002,GNLU,Ticket machine,Medium,Open,Ticket vending machine appears to be unavailable.,14,true
+DEMO-INC-003,Dholakuva Circle,Lighting,Low,Resolved,A lighting issue was logged and marked as resolved in this demo.,21,true
+DEMO-INC-004,Sector-10A,Passenger information display,Medium,Open,Display shows outdated or missing information.,28,true
+DEMO-INC-005,GIFT City,Cleanliness,Low,Open,Cleaning request submitted for a station area.,35,true
+DEMO-INC-006,Sector-16,Lift,High,Investigating,Lift reported unavailable; accessibility impact needs checking.,42,true
+DEMO-INC-007,Koteshwar Road,Crowding,High,Open,Demo report of heavy platform crowding.,49,true
+DEMO-INC-008,Narmada Canal,Signage,Low,Resolved,Wayfinding sign reported unclear in this demo.,56,true
+DEMO-INC-009,Koba Gam,Gate equipment,Medium,Investigating,Gate device reported to be intermittently failing.,63,true
+DEMO-INC-010,Randesan,Water leak,High,Open,Demo maintenance report for a possible leak.,5,true
+DEMO-INC-011,Sector-1,PA system,Medium,Open,Announcement audio reported unclear.,12,true
+DEMO-INC-012,PDEU,Waste bin,Low,Resolved,Waste bin service request completed in this demo.,19,true
+DEMO-INC-013,Juna Sachivalaya,Escalator,Medium,Investigating,Intermittent escalator issue entered for testing.,26,true
+DEMO-INC-014,Mahatma Mandir,Ticket machine,High,Open,Multiple attempts failed in this simulated report.,33,true
+DEMO-INC-015,Tapovan Circle,Passenger information display,Low,Resolved,Display readability issue marked resolved in sample data.,40,true
+DEMO-INC-016,Juna Koba,Lighting,Medium,Investigating,Lighting issue requires inspection in this sample.,47,true
+DEMO-INC-017,Raysan,Crowding,Medium,Open,Moderate congestion reported in this simulated example.,54,true
+DEMO-INC-018,Infocity,Lift,High,Open,Accessibility-related equipment fault in sample data.,61,true
+DEMO-INC-019,Sachivalaya,Signage,Low,Open,Temporary wayfinding support requested.,3,true
+DEMO-INC-020,Akshardham,PA system,Medium,Resolved,Audio issue marked as resolved in this simulated record.,10,true

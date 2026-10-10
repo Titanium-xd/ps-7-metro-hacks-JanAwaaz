@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "dataset_type": "synthetic_demo_only",
+    "warning": "Coordinates and names are illustrative; not suitable for real routing or navigation."
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6468,
+          23.2308
+        ]
+      },
+      "properties": {
+        "id": "DEMO-POINT-01",
+        "name": "Demo transport point 01",
+        "feature_type": "synthetic_demo_point",
+        "synthetic": true,
+        "note": "Illustrative coordinates only. NOT a verified bus stop, platform or facility."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.649,
+          23.233
+        ]
+      },
+      "properties": {
+        "id": "DEMO-POINT-02",
+        "name": "Demo transport point 02",
+        "feature_type": "synthetic_demo_point",
+        "synthetic": true,
+        "note": "Illustrative coordinates only. NOT a verified bus stop, platform or facility."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6438,
+          23.2283
+        ]
+      },
+      "properties": {
+        "id": "DEMO-POINT-03",
+        "name": "Demo transport point 03",
+        "feature_type": "synthetic_demo_point",
+        "synthetic": true,
+        "note": "Illustrative coordinates only. NOT a verified bus stop, platform or facility."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6512,
+          23.2288
+        ]
+      },
+      "properties": {
+        "id": "DEMO-POINT-04",
+        "name": "Demo transport point 04",
+        "feature_type": "synthetic_demo_point",
+        "synthetic": true,
+        "note": "Illustrative coordinates only. NOT a verified bus stop, platform or facility."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6409,
+          23.2341
+        ]
+      },
+      "properties": {
+        "id": "DEMO-POINT-05",
+        "name": "Demo transport point 05",
+        "feature_type": "synthetic_demo_point",
+        "synthetic": true,
+        "note": "Illustrative coordinates only. NOT a verified bus stop, platform or facility."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6544,
+          23.235
+        ]
+      },
+      "properties": {
+        "id": "DEMO-POINT-06",
+        "name": "Demo transport point 06",
+        "feature_type": "synthetic_demo_point",
+        "synthetic": true,
+        "note": "Illustrative coordinates only. NOT a verified bus stop, platform or facility."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6379,
+          23.2294
+        ]
+      },
+      "properties": {
+        "id": "DEMO-POINT-07",
+        "name": "Demo transport point 07",
+        "feature_type": "synthetic_demo_point",
+        "synthetic": true,
+        "note": "Illustrative coordinates only. NOT a verified bus stop, platform or facility."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6479,
+          23.2372
+        ]
+      },
+      "properties": {
+        "id": "DEMO-POINT-08",
+        "name": "Demo transport point 08",
+        "feature_type": "synthetic_demo_point",
+        "synthetic": true,
+        "note": "Illustrative coordinates only. NOT a verified bus stop, platform or facility."
+      }
+    }
+  ]
+}

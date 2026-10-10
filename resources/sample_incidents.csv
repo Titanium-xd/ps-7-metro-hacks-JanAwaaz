@@ -1,0 +1,6 @@
+incident_id,station,issue,severity,status,is_synthetic
+INC001,Mahatma Mandir,Escalator fault,High,Open,true
+INC002,Sachivalaya,Ticket machine issue,Medium,Open,true
+INC003,Infocity,Lighting issue,Low,Resolved,true
+INC004,Mahatma Mandir,Cleanliness,Low,Open,true
+INC005,Sachivalaya,Display malfunction,High,Open,true

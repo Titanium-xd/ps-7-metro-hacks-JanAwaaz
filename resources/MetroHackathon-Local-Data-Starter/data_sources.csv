@@ -1,0 +1,6 @@
+﻿resource,source_url,what_is_grounded,limitations
+GMRC station name references,https://www.gujaratmetrorail.com/ahmedabad/information-of-entry-exit-gate-at-entrance/,Station names listed by GMRC,Names only; not coordinates or service/timetable verification
+GMRC Phase-II route map,https://www.gujaratmetrorail.com/wp-content/uploads/Reports/Phase-II-Map-Final.pdf,Published corridor/route map and station labels,Image/PDF reference; not a machine-readable routing graph
+OpenStreetMap,https://www.openstreetmap.org/,Potential source for verified mapped locations,Coverage and licence/attribution requirements must be checked
+Synthetic incident/feedback/delay samples,N/A - generated for demo,Sample data to test workflows and UI,Not real-world event data; do not report as measured facts
+Synthetic GeoJSON points,N/A - generated for demo,Format example for testing map rendering,Coordinates are illustrative and are not actual transit stops

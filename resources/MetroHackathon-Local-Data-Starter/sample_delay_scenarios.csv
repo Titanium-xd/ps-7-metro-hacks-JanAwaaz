@@ -1,0 +1,11 @@
+﻿scenario_id,demo_train_id,station,scheduled_time_demo_only,simulated_delay_minutes,downstream_stations_affected_demo,scenario_note,is_synthetic
+DEMO-DLY-001,TRAIN-A,Infocity,18:07,3,2,Small delay; downstream impact shown only for simulation.,true
+DEMO-DLY-002,TRAIN-B,Sachivalaya,05:14,7,4,Moderate delay in this made-up scenario.,true
+DEMO-DLY-003,TRAIN-C,Mahatma Mandir,16:21,12,1,Arrival delay; terminal recovery not modelled.,true
+DEMO-DLY-004,TRAIN-A,Randesan,03:28,5,5,Delay propagation illustration.,true
+DEMO-DLY-005,TRAIN-D,GNLU,14:35,9,3,Illustrative delay with possible branch interaction.,true
+DEMO-DLY-006,TRAIN-B,Sector-16,01:42,2,0,Minor delay; no downstream impact assumed.,true
+DEMO-DLY-007,TRAIN-C,Akshardham,12:49,15,6,Larger simulated delay for testing alerts.,true
+DEMO-DLY-008,TRAIN-E,Koba Circle,23:56,4,2,Small simulated delay.,true
+DEMO-DLY-009,TRAIN-D,PDEU,10:03,8,2,Branch scenario; illustrative only.,true
+DEMO-DLY-010,TRAIN-E,Koteshwar Road,21:10,11,4,Moderate simulated delay.,true

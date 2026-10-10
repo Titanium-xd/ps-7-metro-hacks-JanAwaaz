@@ -1,0 +1,13 @@
+﻿feedback_id,station,category,sentiment_demo,feedback_text_synthetic,resolution_status_demo,is_synthetic
+DEMO-FB-001,Juna Koba,Last-mile connection,neutral,Could not easily identify the nearest bus connection.,New,true
+DEMO-FB-002,Dholakuva Circle,Crowding,negative,The platform felt crowded in this simulated report.,Open,true
+DEMO-FB-003,PDEU,Wayfinding,negative,The exit direction was unclear in this example.,Open,true
+DEMO-FB-004,Sector-24,Accessibility,negative,Need clearer information about lift availability.,Investigating,true
+DEMO-FB-005,Narmada Canal,Ticketing,negative,Ticket machine help information was hard to find.,New,true
+DEMO-FB-006,Raysan,Information display,neutral,Would like clearer interchange guidance.,Open,true
+DEMO-FB-007,Sector-10A,Last-mile connection,negative,Need help planning the final leg after leaving the station.,New,true
+DEMO-FB-008,Juna Sachivalaya,Cleanliness,positive,Station area was clean in this sample response.,Closed,true
+DEMO-FB-009,Vishwakarma College,Announcements,negative,Announcement was difficult to understand in this simulated example.,Investigating,true
+DEMO-FB-010,Koba Gam,Accessibility,neutral,Would benefit from a simple accessible route guide.,Open,true
+DEMO-FB-011,Infocity,Crowding,negative,Would like a clearer crowding indicator before entering the platform.,New,true
+DEMO-FB-012,GIFT City,Wayfinding,positive,The signs were easy to follow in this example.,Closed,true
